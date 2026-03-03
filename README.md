@@ -18,9 +18,12 @@ As an Economics-focused analysis, this project prioritizes **interpretability an
 
 Finally, overall price elasticity is **-0.08** suggesting inelastic demand and that the store has can earn more revenue by raising prices. When promotion is applied, compared to jackets, **sweaters have a 21.7% higher effect on sales** but **tshirts have a 15% lower effect**. 
 
+Although **Statistical Significance** is a concern due to low sample size, the direction and magnitude of the coefficients provide a strong directional signal that warrants larger-scale tests.
+
 ## 💡 Strategic Recommendations
 
 1.  **Dynamic Merchandising:** Reserve "End-cap" for both promotional and seasonal items, and "Store-front" for only seasonal items
 2.  **Margin Protection:** Maintain full-price margins on "Staple" categories like T-Shirts, as the data shows these items are less sensitive to promotional discounting.
 3.  **Pricing Headroom:** Given the low price elasticity (-0.08), Zara has the opportunity to test higher price points on high-demand items without risking significant volume loss.
+
 
